@@ -2,7 +2,7 @@
 """
 Created on Thu Mar 30 19:55:28 2023
 
-@author: sandeep
+@author: sandeep, Bhargav, Vidya, Priya
 """
 
 import streamlit as st
