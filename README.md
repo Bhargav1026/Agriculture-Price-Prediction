@@ -2,9 +2,7 @@
 
 Forecast crop prices using historical data and machine learning, enabling smarter decisions for farmers and market players.
 
-<p align="center">
-  <img src="images/price_plot.png" alt="Predicted vs Actual Prices" width="60%" />
-</p>
+
 
 ---
 
@@ -71,21 +69,27 @@ MAPE	8.5%
 Visualization below illustrates how well the model tracks actual price movements:
 
 
-Future Enhancements
-Try LSTM or ARIMA for advanced time series modeling
+F🚀 Future Enhancements
 
-Add external features like rainfall, yield, market demand
+While this project already demonstrates accurate price forecasting, there are several ways I plan to improve it further:
 
-Deploy as a web app with interactive charts (e.g., using Dash or Streamlit)
+Experiment with advanced time-series models such as LSTM networks or ARIMA to capture seasonality and long-term trends more effectively.
 
-Build an automated model retraining pipeline with new data
+Incorporate additional features like rainfall, crop yield, and local market demand, which have a direct influence on agricultural pricing.
 
-Why This Project Stands Out
-Real-world applicability in agriculture economics
+Build an interactive web app (using Dash or Streamlit) so that farmers, traders, or policymakers can input parameters and visualize predictions in real time.
 
-Solid combination of ML modeling and visualization
+Automate model retraining so that as fresh agricultural data becomes available, the system continuously learns and improves without manual intervention.
 
-Excellent for portfolios targeting data science, forecasting, or agriculture tech roles
+🌱 Why This Project Stands Out
+
+This project is more than just a machine learning exercise—it tackles a real-world problem in agriculture economics where price fluctuations directly impact farmers and consumers. It demonstrates:
+
+The ability to take raw data, clean it, and engineer meaningful features.
+
+A practical combination of ML modeling and clear visualizations to make predictions understandable.
+
+A portfolio-ready example that bridges data science and real industry challenges, especially relevant for roles in forecasting, agri-tech, or applied machine learning.
 
 License & Author
 MIT License © 2023 Gunapu Bhargava
